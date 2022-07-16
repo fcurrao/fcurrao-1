@@ -476,19 +476,14 @@ justify-content: center;
   }
 
   #study{
-    padding: 20% !impor
-    display: inline-grid;tant;
+    padding: 20% !important;
+    display: inline-grid !important;
     text-align: center !important;
     align-items: center !important;
     align-content: center !important;
   }
 
 
-
-
-
-
-  
 }
 
 
