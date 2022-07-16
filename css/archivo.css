@@ -245,6 +245,15 @@ text-align: center;
 }
 
 
+.botonasoo{
+  display: inline-block;
+  background-color: var(--first-color);
+  color:#FFF;
+  padding: 1rem;
+  border-radius: .5rem;
+  font-weight: var(--font-medium);
+}
+
 
 /* //////////   Flex dentro de GRids   ///////////////////////// */
 
@@ -406,8 +415,10 @@ justify-content: center;
     background-color: red !important;
   } */
 
-  #home {
-    width: 80% !important;
+  #home { 
+    display: inline-grid;
+    width: 100% !;
+    padding: 20% !important;
     text-align: center !important;
     align-items: center !important;
     align-content: center !important;
@@ -416,7 +427,8 @@ justify-content: center;
   }
 
   #about{
-    width: 80% !important;
+    display: inline-grid;
+    padding: 20% !important;
     text-align: center !important;
     align-items: center !important;
     align-content: center !important;
@@ -426,7 +438,8 @@ justify-content: center;
 
 
   #skills{
-    width: 80% !important;
+    display: inline-grid;
+    padding: 20% !important;
     text-align: center !important;
     align-items: center !important;
     align-content: center !important;
@@ -435,7 +448,8 @@ justify-content: center;
   }
 
   #apps{
-    width: 80% !important;
+    display: inline-grid;
+    padding: 20% !important;
     text-align: center !important;
     align-items: center !important;
     align-content: center !important;
@@ -444,7 +458,8 @@ justify-content: center;
   }
 
   #webs{
-    width: 80% !important;
+    display: inline-grid;
+    padding: 20% !important;
     text-align: center !important;
     align-items: center !important;
     align-content: center !important;
@@ -453,14 +468,16 @@ justify-content: center;
   }
   
   #herramientas{
-    width: 80% !important;
+    display: inline-grid;
+    padding: 20% !important;
     text-align: center !important;
     align-items: center !important;
     align-content: center !important;
   }
 
   #study{
-    width: 80% !important;
+    padding: 20% !impor
+    display: inline-grid;tant;
     text-align: center !important;
     align-items: center !important;
     align-content: center !important;
