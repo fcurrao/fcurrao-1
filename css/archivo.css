@@ -406,33 +406,72 @@ justify-content: center;
     background-color: red !important;
   } */
 
-  
-.littleTitle{
-  padding-top: 5%;
-  text-shadow: 0 0 10px white;
-color: black !important;
-font-weight: bold !important;
-text-decoration-color: #ffffff !important;
-font-size: 40% ;
-text-align: center;
-justify-content: center;
-width: 100%  !important;
-height: 100% !important;
+  #home {
+    width: 80% !important;
+    text-align: center !important;
+    align-items: center !important;
+    align-content: center !important;
 
-}
 
-  .text2{
-    display: none;
   }
-  .text3 {
-  
-    font-family: monospace !important;
-    padding-top: 10%;
-  align-content: center;
-  text-align: center;
-  justify-content: center;
-  
+
+  #about{
+    width: 80% !important;
+    text-align: center !important;
+    align-items: center !important;
+    align-content: center !important;
+
+
   }
+
+
+  #skills{
+    width: 80% !important;
+    text-align: center !important;
+    align-items: center !important;
+    align-content: center !important;
+
+
+  }
+
+  #apps{
+    width: 80% !important;
+    text-align: center !important;
+    align-items: center !important;
+    align-content: center !important;
+
+
+  }
+
+  #webs{
+    width: 80% !important;
+    text-align: center !important;
+    align-items: center !important;
+    align-content: center !important;
+
+
+  }
+  
+  #herramientas{
+    width: 80% !important;
+    text-align: center !important;
+    align-items: center !important;
+    align-content: center !important;
+  }
+
+  #study{
+    width: 80% !important;
+    text-align: center !important;
+    align-items: center !important;
+    align-content: center !important;
+  }
+
+
+
+
+
+
+  
 }
 
 
