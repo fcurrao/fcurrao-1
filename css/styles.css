@@ -232,7 +232,7 @@ textarea{
 }
 
 .nav__logo:hover{
-  color:var(--first-color)
+  color: white;
 }
 
 .nav__toggle{
@@ -241,7 +241,7 @@ textarea{
 }
 
 .nav__toggle:hover{
-  color:var(--first-color)
+  color: white;
 }
 
 @media screen and (max-width:767px){
