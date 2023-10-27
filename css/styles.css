@@ -291,7 +291,7 @@ textarea{
 }
 
 .nav__close:hover{
-  color: var(--first-color)
+  color: white;
 }
 
 .nav__close:hover{
