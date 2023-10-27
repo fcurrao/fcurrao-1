@@ -217,6 +217,7 @@ textarea{
 
 /*==================== NAV ====================*/
 .nav{
+  zoom: 1.2%;
   max-width: 968px;
   height: var(--header-height);
   display: flex;
