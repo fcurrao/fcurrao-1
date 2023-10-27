@@ -172,9 +172,12 @@ textarea{
   visibility: visible;
 }
 /*==================== REUSABLE CSS CLASSES ====================*/
+
+/*
 .section{
   padding: 2rem 0 4rem;
 }
+*/
 
 .section__title{
   font-size:var(--h1-font-size);
