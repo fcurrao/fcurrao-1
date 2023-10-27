@@ -217,7 +217,7 @@ textarea{
 
 /*==================== NAV ====================*/
 .nav{
-  zoom: 1.2%;
+  zoom: 1.1;
   max-width: 968px;
   height: var(--header-height);
   display: flex;
@@ -272,8 +272,9 @@ textarea{
   font-weight: var(--font-medium);
 }
 
+
 .nav__link:hover{
-  color: var(--first-color)
+  color: white;
 }
 
 .nav__icon{
