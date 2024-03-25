@@ -457,12 +457,15 @@ header h6+p {
 text-align: center;
 }
 .centerTT{
-	display: flex;
+    display: flex;
     text-align: center;
     justify-content: center;
     flex-direction: row;
     align-items: center;
     flex-wrap: wrap;
+    border-bottom: solid;
+    border-bottom-color: white;
+    margin-bottom: 2%;
 }
 
 
