@@ -457,12 +457,14 @@ header h6+p {
 text-align: center;
 }
 .centerTT{
-    display: flex;
+	display: flex;
     text-align: center;
     justify-content: center;
     flex-direction: row;
     align-items: center;
+    flex-wrap: wrap;
 }
+
 
 .fs28{
 	font-size:28px
