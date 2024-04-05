@@ -553,8 +553,7 @@ text-align: center;
 .thumbnails .box {
 	margin: 0 1em 2em 1em;
     max-width: 375px;
-	/* width: 28%; */
-}
+	width: 28%; 
 
 .ixon{
 	
